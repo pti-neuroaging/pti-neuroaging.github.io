@@ -1,60 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>We build better &lt;span&gt;products&lt;/span&gt; to help our clients build better &lt;span&gt;companies&lt;/span&gt; on PTI&#43; | Neuro-Aging: Understanding ageing from  R&#43;D&#43;I</title>
+    <title>We work on &lt;span&gt;Assistive Robots&lt;/span&gt; to help  &lt;span&gt;people&lt;/span&gt; on PTI&#43; | Neuro-Aging: Understanding aging from  R&#43;D&#43;I</title>
     <link>https://pti-neuroaging.github.io/projects/</link>
-    <description>Recent content in We build better &lt;span&gt;products&lt;/span&gt; to help our clients build better &lt;span&gt;companies&lt;/span&gt; on PTI&#43; | Neuro-Aging: Understanding ageing from  R&#43;D&#43;I</description>
+    <description>Recent content in We work on &lt;span&gt;Assistive Robots&lt;/span&gt; to help  &lt;span&gt;people&lt;/span&gt; on PTI&#43; | Neuro-Aging: Understanding aging from  R&#43;D&#43;I</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 23 Dec 2019 16:48:28 +0600</lastBuildDate><atom:link href="https://pti-neuroaging.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>KIO-TAPE BRAND</title>
-      <link>https://pti-neuroaging.github.io/projects/kio-tape-2/</link>
-      <pubDate>Mon, 23 Dec 2019 20:56:42 +0600</pubDate>
+      <title>AI Eat</title>
+      <link>https://pti-neuroaging.github.io/projects/ai-eat/</link>
+      <pubDate>Thu, 07 Oct 2021 15:56:43 +0600</pubDate>
       
-      <guid>https://pti-neuroaging.github.io/projects/kio-tape-2/</guid>
-      <description>The “Seamless Watch” watch has all the features that users expect in a digital watch, and some unusual features.
-The watch has the following features:</description>
+      <guid>https://pti-neuroaging.github.io/projects/ai-eat/</guid>
+      <description>As World’s population is ageing, long-term care for elderly citizens will become an increasing cost for society. To manage these transition healthcare policies are heavily focused on extending the independent life of the elderly, with the dual aim of increasing their quality of life (QoL) and reducing the costs of care.</description>
     </item>
     
     <item>
-      <title>USE-LESS BRAND</title>
-      <link>https://pti-neuroaging.github.io/projects/use-less-brand/</link>
-      <pubDate>Mon, 23 Dec 2019 15:58:10 +0600</pubDate>
+      <title>ROB-IN</title>
+      <link>https://pti-neuroaging.github.io/projects/rob-in/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pti-neuroaging.github.io/projects/use-less-brand/</guid>
-      <description>The “Seamless Watch” watch has all the features that users expect in a digital watch, and some unusual features.
-The watch has the following features:</description>
-    </item>
-    
-    <item>
-      <title>OSEN CLOCK</title>
-      <link>https://pti-neuroaging.github.io/projects/osen-clock/</link>
-      <pubDate>Mon, 23 Dec 2019 15:56:43 +0600</pubDate>
-      
-      <guid>https://pti-neuroaging.github.io/projects/osen-clock/</guid>
-      <description>The “Seamless Watch” watch has all the features that users expect in a digital watch, and some unusual features.
-The watch has the following features:</description>
-    </item>
-    
-    <item>
-      <title>SEAMLESS WATCH</title>
-      <link>https://pti-neuroaging.github.io/projects/seamless-watch/</link>
-      <pubDate>Mon, 23 Dec 2019 15:55:44 +0600</pubDate>
-      
-      <guid>https://pti-neuroaging.github.io/projects/seamless-watch/</guid>
-      <description>The “Seamless Watch” watch has all the features that users expect in a digital watch, and some unusual features.
-The watch has the following features:</description>
-    </item>
-    
-    <item>
-      <title>KIO TAPE</title>
-      <link>https://pti-neuroaging.github.io/projects/kio-tape/</link>
-      <pubDate>Mon, 23 Dec 2019 15:44:46 +0600</pubDate>
-      
-      <guid>https://pti-neuroaging.github.io/projects/kio-tape/</guid>
-      <description>The “Seamless Watch” watch has all the features that users expect in a digital watch, and some unusual features.
-The watch has the following features:</description>
+      <guid>https://pti-neuroaging.github.io/projects/rob-in/</guid>
+      <description>Robot for continual personalized assistance able to explain itself
+ROB-IB project PLEC2021-007859 funded by MCIN/ AEI /10.13039/501100011033 and by the European Union NextGenerationEU/PRTRT.
+Robots are increasingly becoming a part of our daily lives and they are deemed to be a very effective tool to address current societal issues.</description>
     </item>
     
   </channel>
